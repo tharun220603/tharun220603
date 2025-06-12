@@ -2,7 +2,7 @@
 
 # Hi there! I'm Tharun Prakash 👋
 
-**Data Science Enthusiast | Python | SQL | Power BI | mern stack**
+**Data Science Enthusiast | Python | SQL | Power BI**
 
 </div>
 
@@ -46,16 +46,6 @@ me.say_hi()
 ```
 🌐 MERN Stack • 🎨 HTML/CSS • 🔧 REST APIs • 💾 Database Management
 ```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tharun220603&show_icons=true&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
