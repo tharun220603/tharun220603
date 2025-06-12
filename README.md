@@ -14,7 +14,6 @@
 class TharunPrakash:
     def __init__(self):
         self.name = "Tharun Prakash"
-        self.location = "India 🇮🇳"
         self.role = "Data Science Enthusiast"
         self.languages = ["Python", "SQL", "JavaScript"]
         self.tools = ["Power BI", "Pandas", "NumPy", "Flask"]
